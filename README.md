@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roylyn16
+- 👋 Hi, I’m roylyn
 - 👀 I’m interested in learning new languages, tv shows, dramas, music and s
 - 🌱 I’m currently learning korean, turkish and python
 - 💞️ I’m looking to collaborate on ...
